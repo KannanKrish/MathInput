@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathInput.Windows", "MathIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathInput", "MathInput\MathInput\MathInput.csproj", "{DF098307-ED0A-4F1E-9B40-27E1334D9650}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathInput.WCF", "MathInput.WCF\MathInput.WCF.csproj", "{E9F594BC-8A68-4531-9044-E89693F483AA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathInput.WCF", "MathInput\MathInput.WCF\MathInput.WCF.csproj", "{E9F594BC-8A68-4531-9044-E89693F483AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
