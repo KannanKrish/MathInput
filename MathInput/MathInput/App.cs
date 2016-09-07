@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MathInput.Views;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,19 +13,7 @@ namespace MathInput
         public App()
         {
             // The root page of your application
-            MainPage = new ContentPage
-            {
-                Content = new StackLayout
-                {
-                    VerticalOptions = LayoutOptions.Center,
-                    Children = {
-                        new Label {
-                            HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
-                        }
-                    }
-                }
-            };
+            MainPage = new RootPage();
         }
 
         protected override void OnStart()
@@ -35,11 +24,13 @@ namespace MathInput
         protected override void OnSleep()
         {
             // Handle when your app sleeps
+            Application.Current.Properties["equation"] = MathInputPage.entry.Text;
         }
 
         protected override void OnResume()
         {
             // Handle when your app resumes
+            MathInputPage.entry.Text = Application.Current.Properties["equation"] as string;
         }
     }
 }
