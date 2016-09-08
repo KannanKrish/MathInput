@@ -90,6 +90,16 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- A reference to the entire .Net Framework and Windows SDK are automatically included -->
+    <None Include="Assets\tessdata\eng.cube.bigrams" />
+    <None Include="Assets\tessdata\eng.cube.fold" />
+    <None Include="Assets\tessdata\eng.cube.lm" />
+    <None Include="Assets\tessdata\eng.cube.nn" />
+    <None Include="Assets\tessdata\eng.cube.params" />
+    <None Include="Assets\tessdata\eng.cube.size" />
+    <None Include="Assets\tessdata\eng.cube.word-freq" />
+    <None Include="Assets\tessdata\eng.tesseract_cube.nn" />
+    <None Include="Assets\tessdata\eng.traineddata" />
+    <None Include="Assets\tessdata\equ.traineddata" />
     <None Include="project.json" />
   </ItemGroup>
   <ItemGroup>
