@@ -12,4 +12,145 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="About" xml:space="preserve">
+    <value>हमारे बारे में</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>गणित इनपुट</value>
+  </data>
+  <data name="DisplayAlertMessage" xml:space="preserve">
+    <value>समीकरण की प्रतिलिपि</value>
+  </data>
+  <data name="DisplayAlertOK" xml:space="preserve">
+    <value>ठीक</value>
+  </data>
+  <data name="DisplayAlertSuccess" xml:space="preserve">
+    <value>सफलता</value>
+  </data>
+  <data name="Feedback" xml:space="preserve">
+    <value>प्रतिक्रिया</value>
+  </data>
+  <data name="labelCalculusStatistics" xml:space="preserve">
+    <value>गणित के आँकड़े प्रतीक</value>
+  </data>
+  <data name="labelCommonArith" xml:space="preserve">
+    <value>आम अंकगणित और बीजगणित प्रतीक</value>
+  </data>
+  <data name="labelCommonStatistics" xml:space="preserve">
+    <value>आम सांख्यिकी प्रतीक</value>
+  </data>
+  <data name="labelEquivalence_Proportion" xml:space="preserve">
+    <value>आम तुल्यता और अनुपात ऑपरेटर्स</value>
+  </data>
+  <data name="labelFraction" xml:space="preserve">
+    <value>अंश प्रतीकों</value>
+  </data>
+  <data name="labelGeometric" xml:space="preserve">
+    <value>ज्यामितीय प्रतीकों</value>
+  </data>
+  <data name="labelLetter" xml:space="preserve">
+    <value>पत्र प्रतीक</value>
+  </data>
+  <data name="labelLogical_Proofs" xml:space="preserve">
+    <value>तार्किक सबूत प्रतीक</value>
+  </data>
+  <data name="labelLogicSet" xml:space="preserve">
+    <value>तर्क और सिद्धांत प्रतीक</value>
+  </data>
+  <data name="labelMeasurement" xml:space="preserve">
+    <value>माप प्रतीक</value>
+  </data>
+  <data name="labelOther_Mathematical" xml:space="preserve">
+    <value>अन्य गणितीय प्रतीक</value>
+  </data>
+  <data name="labelSubscripts" xml:space="preserve">
+    <value>सबस्क्रिप्ट प्रतीक</value>
+  </data>
+  <data name="labelSuperscripts" xml:space="preserve">
+    <value>सुपरस्क्रिप्ट प्रतीक</value>
+  </data>
+  <data name="MathInput" xml:space="preserve">
+    <value>गणित इनपुट</value>
+  </data>
+  <data name="NormalInput" xml:space="preserve">
+    <value>वर्ण इनपुट</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>गोपनीयता</value>
+  </data>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>hi-in</value>
+  </data>
+  <data name="ToolbarClear" xml:space="preserve">
+    <value>साफ़ करें</value>
+  </data>
+  <data name="ToolbarCopy" xml:space="preserve">
+    <value>प्रतिलिपि बनाएँ</value>
+  </data>
+  <data name="EntryPlaceholder" xml:space="preserve">
+    <value>अपने समीकरण लिखें</value>
+  </data>
+  <data name="DisplayAlertFailed" xml:space="preserve">
+    <value>त्रुटि</value>
+  </data>
+  <data name="DisplayAlertFailedMessage" xml:space="preserve">
+    <value>चेकआउट कृपया अपने इनपुट्स</value>
+  </data>
+  <data name="EmailSend" xml:space="preserve">
+    <value>भेजें</value>
+  </data>
+  <data name="FeedbackItem1" xml:space="preserve">
+    <value>हल करता है</value>
+  </data>
+  <data name="FeedbackItem2" xml:space="preserve">
+    <value>सुधार</value>
+  </data>
+  <data name="FeedbackItem3" xml:space="preserve">
+    <value>Comments</value>
+  </data>
+  <data name="FeedbackItem4" xml:space="preserve">
+    <value>अन्य</value>
+  </data>
+  <data name="FeedbackMail" xml:space="preserve">
+    <value>ckannan759153@gmail.com</value>
+  </data>
+  <data name="layout1_labelText" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="layout2_labelText" xml:space="preserve">
+    <value>प्रतिक्रिया प्रकार</value>
+  </data>
+  <data name="layout3_labelText" xml:space="preserve">
+    <value>MESSAGE</value>
+  </data>
+  <data name="layout4_labelText" xml:space="preserve">
+    <value>दान की राशि</value>
+  </data>
+  <data name="ImageOCR" xml:space="preserve">
+    <value>छवि से समीकरण</value>
+  </data>
+  <data name="AmountPlaceholder" xml:space="preserve">
+    <value>दान की राशि दर्ज करें</value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>दान</value>
+  </data>
+  <data name="AboutDetails" xml:space="preserve">
+    <value>      हिमालय कंप्यूटर प्रौद्योगिकी लक्ष्य अनुप्रयोग विकास, खेल विकास, मोबाइल अनुप्रयोगों, फोटो और वीडियो संपादन, स्थिर और गतिशील वेबसाइट विकास पर प्रशिक्षण प्रदान करने के लिए, हार्डवेयर &amp;सॉफ्टवेयर सेवाओं के लिए begineers.</value>
+  </data>
+  <data name="OCRPageCaptureError" xml:space="preserve">
+    <value>फोटो नहीं पर कब्जा कर लिया।</value>
+  </data>
+  <data name="OCRPageGetPhotoButton" xml:space="preserve">
+    <value>तस्वीर मिल</value>
+  </data>
+  <data name="OCRPageLoadError" xml:space="preserve">
+    <value>फोटो लोड नहीं।</value>
+  </data>
+  <data name="OCRPageLoadImageButton" xml:space="preserve">
+    <value>छवि लोड</value>
+  </data>
 </root>

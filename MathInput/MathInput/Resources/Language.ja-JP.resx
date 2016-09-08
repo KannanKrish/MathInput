@@ -12,4 +12,145 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="About" xml:space="preserve">
+    <value>会社紹介</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>数式入力</value>
+  </data>
+  <data name="DisplayAlertMessage" xml:space="preserve">
+    <value>数式のコピー</value>
+  </data>
+  <data name="DisplayAlertOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="DisplayAlertSuccess" xml:space="preserve">
+    <value>成功</value>
+  </data>
+  <data name="Feedback" xml:space="preserve">
+    <value>フィードバック</value>
+  </data>
+  <data name="labelCalculusStatistics" xml:space="preserve">
+    <value>計算統計記号</value>
+  </data>
+  <data name="labelCommonArith" xml:space="preserve">
+    <value>一般的な算術および代数記号</value>
+  </data>
+  <data name="labelCommonStatistics" xml:space="preserve">
+    <value>一般的な統計量の記号</value>
+  </data>
+  <data name="labelEquivalence_Proportion" xml:space="preserve">
+    <value>一般的な等価性と割合演算子</value>
+  </data>
+  <data name="labelFraction" xml:space="preserve">
+    <value>分数記号</value>
+  </data>
+  <data name="labelGeometric" xml:space="preserve">
+    <value>幾何学記号</value>
+  </data>
+  <data name="labelLetter" xml:space="preserve">
+    <value>文字記号</value>
+  </data>
+  <data name="labelLogical_Proofs" xml:space="preserve">
+    <value>論理証明記号</value>
+  </data>
+  <data name="labelLogicSet" xml:space="preserve">
+    <value>論理や集合論の記号</value>
+  </data>
+  <data name="labelMeasurement" xml:space="preserve">
+    <value>測定の記号</value>
+  </data>
+  <data name="labelOther_Mathematical" xml:space="preserve">
+    <value>その他の数学記号</value>
+  </data>
+  <data name="labelSubscripts" xml:space="preserve">
+    <value>下付き文字記号</value>
+  </data>
+  <data name="labelSuperscripts" xml:space="preserve">
+    <value>上付き文字記号</value>
+  </data>
+  <data name="MathInput" xml:space="preserve">
+    <value>数式入力</value>
+  </data>
+  <data name="NormalInput" xml:space="preserve">
+    <value>手書き入力</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>プライバシー</value>
+  </data>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>ja-JP</value>
+  </data>
+  <data name="ToolbarClear" xml:space="preserve">
+    <value>クリア</value>
+  </data>
+  <data name="ToolbarCopy" xml:space="preserve">
+    <value>コピー</value>
+  </data>
+  <data name="EntryPlaceholder" xml:space="preserve">
+    <value>あなたの数式を入力します</value>
+  </data>
+  <data name="DisplayAlertFailed" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="DisplayAlertFailedMessage" xml:space="preserve">
+    <value>チェック アウトあなたの入力をしてください。</value>
+  </data>
+  <data name="EmailSend" xml:space="preserve">
+    <value>送信</value>
+  </data>
+  <data name="FeedbackItem1" xml:space="preserve">
+    <value>修正</value>
+  </data>
+  <data name="FeedbackItem2" xml:space="preserve">
+    <value>改善</value>
+  </data>
+  <data name="FeedbackItem3" xml:space="preserve">
+    <value>コメント</value>
+  </data>
+  <data name="FeedbackItem4" xml:space="preserve">
+    <value>その他</value>
+  </data>
+  <data name="FeedbackMail" xml:space="preserve">
+    <value>ckannan759153@gmail.com</value>
+  </data>
+  <data name="layout1_labelText" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="layout2_labelText" xml:space="preserve">
+    <value>フィードバックの種類</value>
+  </data>
+  <data name="layout3_labelText" xml:space="preserve">
+    <value>メッセージ</value>
+  </data>
+  <data name="layout4_labelText" xml:space="preserve">
+    <value>寄付金額</value>
+  </data>
+  <data name="ImageOCR" xml:space="preserve">
+    <value>イメージから方程式</value>
+  </data>
+  <data name="AmountPlaceholder" xml:space="preserve">
+    <value>寄付の金額を入力してください。</value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>寄付</value>
+  </data>
+  <data name="AboutDetails" xml:space="preserve">
+    <value>ヒマラヤ コンピューター技術目標は、アプリケーション開発、ゲーム開発、モバイル アプリケーション、写真やビデオ編集、静的および動的なウェブサイトの開発に関する研修を実施する、ハードウェア ソフトウェア&amp;における学習サービスします。</value>
+  </data>
+  <data name="OCRPageCaptureError" xml:space="preserve">
+    <value>写真はキャプチャされません。</value>
+  </data>
+  <data name="OCRPageGetPhotoButton" xml:space="preserve">
+    <value>写真を得る</value>
+  </data>
+  <data name="OCRPageLoadError" xml:space="preserve">
+    <value>写真が読み込まれていません。</value>
+  </data>
+  <data name="OCRPageLoadImageButton" xml:space="preserve">
+    <value>画像の取り込み</value>
+  </data>
 </root>

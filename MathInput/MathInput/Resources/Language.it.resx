@@ -12,4 +12,145 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="About" xml:space="preserve">
+    <value>Dettagli sull'organizzazione</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>Ingresso di matematica</value>
+  </data>
+  <data name="DisplayAlertMessage" xml:space="preserve">
+    <value>Equazione copiato</value>
+  </data>
+  <data name="DisplayAlertOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="DisplayAlertSuccess" xml:space="preserve">
+    <value>Operazione riuscita</value>
+  </data>
+  <data name="Feedback" xml:space="preserve">
+    <value>Commenti e suggerimenti</value>
+  </data>
+  <data name="labelCalculusStatistics" xml:space="preserve">
+    <value>Calcolo statistiche simboli</value>
+  </data>
+  <data name="labelCommonArith" xml:space="preserve">
+    <value>Comune aritmetica e Algebra simboli</value>
+  </data>
+  <data name="labelCommonStatistics" xml:space="preserve">
+    <value>Simboli di statistiche comuni</value>
+  </data>
+  <data name="labelEquivalence_Proportion" xml:space="preserve">
+    <value>Equivalenza comune e operatori di proporzione</value>
+  </data>
+  <data name="labelFraction" xml:space="preserve">
+    <value>Simboli di frazione</value>
+  </data>
+  <data name="labelGeometric" xml:space="preserve">
+    <value>Simboli geometrici</value>
+  </data>
+  <data name="labelLetter" xml:space="preserve">
+    <value>Simboli della lettera</value>
+  </data>
+  <data name="labelLogical_Proofs" xml:space="preserve">
+    <value>Simboli logici prove</value>
+  </data>
+  <data name="labelLogicSet" xml:space="preserve">
+    <value>Logica e teoria degli insiemi simboli</value>
+  </data>
+  <data name="labelMeasurement" xml:space="preserve">
+    <value>Simboli di misurazione</value>
+  </data>
+  <data name="labelOther_Mathematical" xml:space="preserve">
+    <value>Altri simboli matematici</value>
+  </data>
+  <data name="labelSubscripts" xml:space="preserve">
+    <value>Simboli di pedici</value>
+  </data>
+  <data name="labelSuperscripts" xml:space="preserve">
+    <value>Simboli di apici</value>
+  </data>
+  <data name="MathInput" xml:space="preserve">
+    <value>Ingresso di matematica</value>
+  </data>
+  <data name="NormalInput" xml:space="preserve">
+    <value>Inserimento caratteri</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>Privacy</value>
+  </data>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>it-IT</value>
+  </data>
+  <data name="ToolbarClear" xml:space="preserve">
+    <value>Cancella</value>
+  </data>
+  <data name="ToolbarCopy" xml:space="preserve">
+    <value>Copia</value>
+  </data>
+  <data name="EntryPlaceholder" xml:space="preserve">
+    <value>Digitare l'equazione</value>
+  </data>
+  <data name="DisplayAlertFailed" xml:space="preserve">
+    <value>Errore</value>
+  </data>
+  <data name="DisplayAlertFailedMessage" xml:space="preserve">
+    <value>Si prega di checkout degli ingressi</value>
+  </data>
+  <data name="EmailSend" xml:space="preserve">
+    <value>Invio</value>
+  </data>
+  <data name="FeedbackItem1" xml:space="preserve">
+    <value>Consente di correggere</value>
+  </data>
+  <data name="FeedbackItem2" xml:space="preserve">
+    <value>Miglioramenti</value>
+  </data>
+  <data name="FeedbackItem3" xml:space="preserve">
+    <value>Commenti</value>
+  </data>
+  <data name="FeedbackItem4" xml:space="preserve">
+    <value>Altri</value>
+  </data>
+  <data name="FeedbackMail" xml:space="preserve">
+    <value>ckannan759153@gmail.com</value>
+  </data>
+  <data name="layout1_labelText" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="layout2_labelText" xml:space="preserve">
+    <value>Tipo di feedback</value>
+  </data>
+  <data name="layout3_labelText" xml:space="preserve">
+    <value>Messaggio</value>
+  </data>
+  <data name="layout4_labelText" xml:space="preserve">
+    <value>Importo della donazione</value>
+  </data>
+  <data name="ImageOCR" xml:space="preserve">
+    <value>Equazione da immagine</value>
+  </data>
+  <data name="AmountPlaceholder" xml:space="preserve">
+    <value>Immettere l'importo della donazione</value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>Donare</value>
+  </data>
+  <data name="AboutDetails" xml:space="preserve">
+    <value>      Himalaya Computer tecnologia obiettivo è quello di fornire corsi di formazione su sviluppo di applicazioni, lo sviluppo di giochi, applicazioni mobili, foto e Video editing, statico e dinamico sviluppo di siti Web, Servizi Hardware &amp;Software per begineers.</value>
+  </data>
+  <data name="OCRPageCaptureError" xml:space="preserve">
+    <value>Foto non catturata.</value>
+  </data>
+  <data name="OCRPageGetPhotoButton" xml:space="preserve">
+    <value>Ottenere foto</value>
+  </data>
+  <data name="OCRPageLoadError" xml:space="preserve">
+    <value>Foto non caricata.</value>
+  </data>
+  <data name="OCRPageLoadImageButton" xml:space="preserve">
+    <value>Carica immagine</value>
+  </data>
 </root>

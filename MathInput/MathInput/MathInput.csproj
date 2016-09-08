@@ -96,11 +96,6 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Language.nl.resx</DependentUpon>
     </Compile>
-    <Compile Include="Resources\Language.qps-ploc.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Language.qps-ploc.resx</DependentUpon>
-    </Compile>
     <Compile Include="Resources\Language.ro.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -227,10 +222,6 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Language.nl.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="Resources\Language.qps-ploc.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Language.qps-ploc.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
     <EmbeddedResource Include="Resources\Language.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Language.Designer.cs</LastGenOutput>
@@ -271,7 +262,6 @@
     <XliffResource Include="MultilingualResources\MathInput.it.xlf" />
     <XliffResource Include="MultilingualResources\MathInput.ja-JP.xlf" />
     <XliffResource Include="MultilingualResources\MathInput.nl.xlf" />
-    <XliffResource Include="MultilingualResources\MathInput.qps-ploc.xlf" />
     <XliffResource Include="MultilingualResources\MathInput.ro.xlf" />
     <XliffResource Include="MultilingualResources\MathInput.ta.xlf" />
     <XliffResource Include="MultilingualResources\MathInput.zh-Hans.xlf" />
