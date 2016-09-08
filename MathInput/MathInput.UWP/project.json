@@ -1,9 +1,15 @@
 ﻿{
   "dependencies": {
+    "ExifLib.PCL": "1.0.1",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.2",
+    "Xam.FormsPlugin.AdMobView": "1.0.23",
+    "Xam.Plugins.Messaging": "3.2.1",
     "Xamarin.Forms": "2.3.1.114",
     "Xamarin.Tesseract": "0.3.2",
-    "XLabs.Forms": "2.0.5782"
+    "XLabs.Core": "2.0.5782",
+    "XLabs.Forms": "2.0.5782",
+    "XLabs.Platform": "2.0.5782",
+    "XLabs.Serialization": "2.0.5782"
   },
   "frameworks": {
     "uap10.0": {}
