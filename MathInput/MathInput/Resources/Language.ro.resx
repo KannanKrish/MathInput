@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>Despre noi</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>Matematica de intrare</value>
+  </data>
+  <data name="DisplayAlertMessage" xml:space="preserve">
+    <value>Ecuaţia copiat</value>
+  </data>
+  <data name="DisplayAlertOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="DisplayAlertSuccess" xml:space="preserve">
+    <value>Succes</value>
+  </data>
+  <data name="Feedback" xml:space="preserve">
+    <value>feedback</value>
+  </data>
+  <data name="labelCalculusStatistics" xml:space="preserve">
+    <value>Calcul statistica simboluri</value>
+  </data>
+  <data name="labelCommonArith" xml:space="preserve">
+    <value>Comune aritmetica si Algebra simboluri</value>
+  </data>
+  <data name="labelCommonStatistics" xml:space="preserve">
+    <value>Simboluri de statistici comune</value>
+  </data>
+  <data name="labelEquivalence_Proportion" xml:space="preserve">
+    <value>Echivalența comune şi proporţia operatorii</value>
+  </data>
+  <data name="labelFraction" xml:space="preserve">
+    <value>Fracţiune simboluri</value>
+  </data>
+  <data name="labelGeometric" xml:space="preserve">
+    <value>Simboluri geometrice</value>
+  </data>
+  <data name="labelLetter" xml:space="preserve">
+    <value>Scrisoare de simboluri</value>
+  </data>
+  <data name="labelLogical_Proofs" xml:space="preserve">
+    <value>Simboluri logice dovezile</value>
+  </data>
+  <data name="labelLogicSet" xml:space="preserve">
+    <value>Logică şi de teoria mulţimilor simboluri</value>
+  </data>
+  <data name="labelMeasurement" xml:space="preserve">
+    <value>Simboluri de măsurare</value>
+  </data>
+  <data name="labelOther_Mathematical" xml:space="preserve">
+    <value>Alte simboluri matematice</value>
+  </data>
+  <data name="labelSubscripts" xml:space="preserve">
+    <value>Indici simboluri</value>
+  </data>
+  <data name="labelSuperscripts" xml:space="preserve">
+    <value>Exponenți simboluri</value>
+  </data>
+  <data name="MathInput" xml:space="preserve">
+    <value>Matematica de intrare</value>
+  </data>
+  <data name="NormalInput" xml:space="preserve">
+    <value>Intrare caracter</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>Confidențialitate</value>
+  </data>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>ro-RO</value>
+  </data>
+  <data name="ToolbarClear" xml:space="preserve">
+    <value>Golire</value>
+  </data>
+  <data name="ToolbarCopy" xml:space="preserve">
+    <value>Copiere</value>
+  </data>
+  <data name="EntryPlaceholder" xml:space="preserve">
+    <value>Tastați ecuația dumneavoastră</value>
+  </data>
+  <data name="DisplayAlertFailed" xml:space="preserve">
+    <value>Eroare</value>
+  </data>
+  <data name="DisplayAlertFailedMessage" xml:space="preserve">
+    <value>Vă rugăm să checkout vă intrări</value>
+  </data>
+  <data name="EmailSend" xml:space="preserve">
+    <value>Trimitere</value>
+  </data>
+  <data name="FeedbackItem1" xml:space="preserve">
+    <value>Remedieri</value>
+  </data>
+  <data name="FeedbackItem2" xml:space="preserve">
+    <value>Îmbunătăţiri</value>
+  </data>
+  <data name="FeedbackItem3" xml:space="preserve">
+    <value>Comentarii</value>
+  </data>
+  <data name="FeedbackItem4" xml:space="preserve">
+    <value>Altele</value>
+  </data>
+  <data name="FeedbackMail" xml:space="preserve">
+    <value>ckannan759153@gmail.com</value>
+  </data>
+  <data name="layout1_labelText" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="layout2_labelText" xml:space="preserve">
+    <value>Feedback-ul de tip</value>
+  </data>
+  <data name="layout3_labelText" xml:space="preserve">
+    <value>Mesaj</value>
+  </data>
+  <data name="layout4_labelText" xml:space="preserve">
+    <value>Suma de donatie</value>
+  </data>
+  <data name="ImageOCR" xml:space="preserve">
+    <value>Ecuaţia de imagine</value>
+  </data>
+  <data name="AmountPlaceholder" xml:space="preserve">
+    <value>Introduceţi suma de donatie</value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>Dona</value>
+  </data>
+  <data name="AboutDetails" xml:space="preserve">
+    <value>      Tehnica de calcul Himalaya scopul este de a oferi traininguri pe dezvoltarea de aplicaţii, joc de dezvoltare, aplicatii mobil, foto si Video editare, Static si dinamic website dezvoltare, Hardware &amp;Software servicii pentru begineers.</value>
+  </data>
+  <data name="OCRPageCaptureError" xml:space="preserve">
+    <value>Foto nu capturat.</value>
+  </data>
+  <data name="OCRPageGetPhotoButton" xml:space="preserve">
+    <value>Obţine fotografie</value>
+  </data>
+  <data name="OCRPageLoadError" xml:space="preserve">
+    <value>Foto nu încărcat.</value>
+  </data>
+  <data name="OCRPageLoadImageButton" xml:space="preserve">
+    <value>Imagine de încărcare</value>
+  </data>
+</root>

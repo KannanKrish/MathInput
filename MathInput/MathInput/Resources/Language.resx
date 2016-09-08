@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About" xml:space="preserve">
-    <value>About</value>
+    <value>About Us</value>
   </data>
   <data name="AppName" xml:space="preserve">
     <value>Math Input</value>
@@ -242,5 +242,20 @@
   </data>
   <data name="Donate" xml:space="preserve">
     <value>Donate</value>
+  </data>
+  <data name="AboutDetails" xml:space="preserve">
+    <value>      Himalaya Computer Technology goal is to provide trainings on Application development, Game development, Mobile applications, Photo and Video editing, Static and Dynamic website development, Hardware &amp; Software services for begineers.</value>
+  </data>
+  <data name="OCRPageCaptureError" xml:space="preserve">
+    <value>Photo not captured.</value>
+  </data>
+  <data name="OCRPageGetPhotoButton" xml:space="preserve">
+    <value>Get photo</value>
+  </data>
+  <data name="OCRPageLoadError" xml:space="preserve">
+    <value>Photo not Loaded.</value>
+  </data>
+  <data name="OCRPageLoadImageButton" xml:space="preserve">
+    <value>Load image</value>
   </data>
 </root>

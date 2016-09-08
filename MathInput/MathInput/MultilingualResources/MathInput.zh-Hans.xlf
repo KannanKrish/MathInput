@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="zh-Hans" original="MATHINPUT/RESOURCES/LANGUAGE.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1605.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="MATHINPUT/RESOURCES/LANGUAGE.RESX" datatype="resx">
+        <trans-unit id="About" translate="yes" xml:space="preserve">
+          <source>About Us</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">关于我们</target>
+        </trans-unit>
+        <trans-unit id="AppName" translate="yes" xml:space="preserve">
+          <source>Math Input</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">数学输入</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertMessage" translate="yes" xml:space="preserve">
+          <source>Equation Copied</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">复制的方程</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertOK" translate="yes" xml:space="preserve">
+          <source>OK</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">确定</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertSuccess" translate="yes" xml:space="preserve">
+          <source>Success</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">成功</target>
+        </trans-unit>
+        <trans-unit id="Feedback" translate="yes" xml:space="preserve">
+          <source>Feedback</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">反馈</target>
+        </trans-unit>
+        <trans-unit id="labelCalculusStatistics" translate="yes" xml:space="preserve">
+          <source>Calculus Statistics Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">微积分统计符号</target>
+        </trans-unit>
+        <trans-unit id="labelCommonArith" translate="yes" xml:space="preserve">
+          <source>Common Arithmetic and Algebra Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">常见的算术和代数符号</target>
+        </trans-unit>
+        <trans-unit id="labelCommonStatistics" translate="yes" xml:space="preserve">
+          <source>Common Statistics Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">常用统计符号</target>
+        </trans-unit>
+        <trans-unit id="labelEquivalence_Proportion" translate="yes" xml:space="preserve">
+          <source>Common Equivalence and Proportion Operators</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">常见的等价性和比例运算符</target>
+        </trans-unit>
+        <trans-unit id="labelFraction" translate="yes" xml:space="preserve">
+          <source>Fraction Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">分数符号</target>
+        </trans-unit>
+        <trans-unit id="labelGeometric" translate="yes" xml:space="preserve">
+          <source>Geometric Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">几何符号</target>
+        </trans-unit>
+        <trans-unit id="labelLetter" translate="yes" xml:space="preserve">
+          <source>Letter Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">字母符号</target>
+        </trans-unit>
+        <trans-unit id="labelLogical_Proofs" translate="yes" xml:space="preserve">
+          <source>Logical Proofs Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">逻辑推理符号</target>
+        </trans-unit>
+        <trans-unit id="labelLogicSet" translate="yes" xml:space="preserve">
+          <source>Logic and Set Theory Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">逻辑和集合论符号</target>
+        </trans-unit>
+        <trans-unit id="labelMeasurement" translate="yes" xml:space="preserve">
+          <source>Measurement Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">测量符号</target>
+        </trans-unit>
+        <trans-unit id="labelOther_Mathematical" translate="yes" xml:space="preserve">
+          <source>Other Mathematical Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">其他数学符号</target>
+        </trans-unit>
+        <trans-unit id="labelSubscripts" translate="yes" xml:space="preserve">
+          <source>Subscripts Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">下标符号</target>
+        </trans-unit>
+        <trans-unit id="labelSuperscripts" translate="yes" xml:space="preserve">
+          <source>Superscripts Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">上标符号</target>
+        </trans-unit>
+        <trans-unit id="MathInput" translate="yes" xml:space="preserve">
+          <source>Math Input</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">数学输入</target>
+        </trans-unit>
+        <trans-unit id="NormalInput" translate="yes" xml:space="preserve">
+          <source>Character Input</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">字符输入</target>
+        </trans-unit>
+        <trans-unit id="Privacy" translate="yes" xml:space="preserve">
+          <source>Privacy</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">隐私</target>
+        </trans-unit>
+        <trans-unit id="ResourceFlowDirection" translate="yes" xml:space="preserve">
+          <source>LeftToRight</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">LeftToRight</target>
+        </trans-unit>
+        <trans-unit id="ResourceLanguage" translate="yes" xml:space="preserve">
+          <source>en-US</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">zh-cn</target>
+        </trans-unit>
+        <trans-unit id="ToolbarClear" translate="yes" xml:space="preserve">
+          <source>Clear</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">清除</target>
+        </trans-unit>
+        <trans-unit id="ToolbarCopy" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">复制</target>
+        </trans-unit>
+        <trans-unit id="EntryPlaceholder" translate="yes" xml:space="preserve">
+          <source>Type your equation</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">键入您的公式</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertFailed" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Error</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertFailedMessage" translate="yes" xml:space="preserve">
+          <source>Please checkout your Inputs</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">请签出您的输入</target>
+        </trans-unit>
+        <trans-unit id="EmailSend" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">发送</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem1" translate="yes" xml:space="preserve">
+          <source>Fixes</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">修补程序</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem2" translate="yes" xml:space="preserve">
+          <source>Improvements</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">改进</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem3" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">注释</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem4" translate="yes" xml:space="preserve">
+          <source>Others</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">其他</target>
+        </trans-unit>
+        <trans-unit id="FeedbackMail" translate="yes" xml:space="preserve">
+          <source>ckannan759153@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">ckannan759153@gmail.com</target>
+        </trans-unit>
+        <trans-unit id="layout1_labelText" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">名称</target>
+        </trans-unit>
+        <trans-unit id="layout2_labelText" translate="yes" xml:space="preserve">
+          <source>Feedback Type</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">反馈类型</target>
+        </trans-unit>
+        <trans-unit id="layout3_labelText" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">信息</target>
+        </trans-unit>
+        <trans-unit id="layout4_labelText" translate="yes" xml:space="preserve">
+          <source>Donation Amount</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">捐赠金额</target>
+        </trans-unit>
+        <trans-unit id="ImageOCR" translate="yes" xml:space="preserve">
+          <source>Equation from Image</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">图像的方程</target>
+        </trans-unit>
+        <trans-unit id="AmountPlaceholder" translate="yes" xml:space="preserve">
+          <source>Enter the donation amount</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">输入捐赠金额</target>
+        </trans-unit>
+        <trans-unit id="Donate" translate="yes" xml:space="preserve">
+          <source>Donate</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">捐赠</target>
+        </trans-unit>
+        <trans-unit id="AboutDetails" translate="yes" xml:space="preserve">
+          <source>      Himalaya Computer Technology goal is to provide trainings on Application development, Game development, Mobile applications, Photo and Video editing, Static and Dynamic website development, Hardware &amp; Software services for begineers.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">喜马拉雅山计算机科技的目标是要提供对应用程序开发、 游戏开发、 移动应用、 照片和视频编辑、 静态和动态网站开发的培训、 硬件&amp;软件服务为 begineers。</target>
+        </trans-unit>
+        <trans-unit id="OCRPageCaptureError" translate="yes" xml:space="preserve">
+          <source>Photo not captured.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">不捕获的照片。</target>
+        </trans-unit>
+        <trans-unit id="OCRPageGetPhotoButton" translate="yes" xml:space="preserve">
+          <source>Get photo</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">拍张照片</target>
+        </trans-unit>
+        <trans-unit id="OCRPageLoadError" translate="yes" xml:space="preserve">
+          <source>Photo not Loaded.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">照片不会加载。</target>
+        </trans-unit>
+        <trans-unit id="OCRPageLoadImageButton" translate="yes" xml:space="preserve">
+          <source>Load image</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">加载图像</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

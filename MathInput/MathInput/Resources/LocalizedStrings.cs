@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MathInput.Resources;
 
-namespace MathInput.Resources
+namespace MathInput
 {
+    /// <summary>
+    /// Provides access to string resources.
+    /// </summary>
     public class LocalizedStrings
     {
         private static Language _localizedResources = new Language();

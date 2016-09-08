@@ -74,9 +74,11 @@ namespace MathInput
                 else
                 {
                     Button btnSymbol = new Button() { Text = text };
-                    btnSymbol.Clicked += (s, e) =>
+                    btnSymbol.Clicked +=async (s, e) =>
                                     {
                                         entry.Text += btnSymbol.Text;
+                                        await btnSymbol.ScaleTo(1.3, 200, Easing.BounceOut);
+                                        btnSymbol.Scale = 1;
                                     };
                     gridLayout.Children.Add(btnSymbol, columnCount++, rowCount);
                     if (columnCount % columnTotal == 0)

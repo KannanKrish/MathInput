@@ -23,6 +23,7 @@ namespace MathInput.Views
                     if (e.SelectedItem.ToString() == Language.MathInput)
                     {
                         Detail = new MathInputPage();
+                        ToolbarItems.Clear();
                         ToolbarItemMathInput(this);
                     }
                     if (e.SelectedItem.ToString() == Language.ImageOCR)

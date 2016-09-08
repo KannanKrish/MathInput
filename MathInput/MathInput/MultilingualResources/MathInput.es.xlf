@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="es" original="MATHINPUT/RESOURCES/LANGUAGE.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1605.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="MATHINPUT/RESOURCES/LANGUAGE.RESX" datatype="resx">
+        <trans-unit id="About" translate="yes" xml:space="preserve">
+          <source>About Us</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Acerca de nosotros</target>
+        </trans-unit>
+        <trans-unit id="AppName" translate="yes" xml:space="preserve">
+          <source>Math Input</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Entrada de matemáticas</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertMessage" translate="yes" xml:space="preserve">
+          <source>Equation Copied</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ecuación de copiado</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertOK" translate="yes" xml:space="preserve">
+          <source>OK</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Aceptar</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertSuccess" translate="yes" xml:space="preserve">
+          <source>Success</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Correcto</target>
+        </trans-unit>
+        <trans-unit id="Feedback" translate="yes" xml:space="preserve">
+          <source>Feedback</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Comentarios</target>
+        </trans-unit>
+        <trans-unit id="labelCalculusStatistics" translate="yes" xml:space="preserve">
+          <source>Calculus Statistics Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Símbolos de cálculo estadística</target>
+        </trans-unit>
+        <trans-unit id="labelCommonArith" translate="yes" xml:space="preserve">
+          <source>Common Arithmetic and Algebra Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Símbolos de álgebra y aritmética común</target>
+        </trans-unit>
+        <trans-unit id="labelCommonStatistics" translate="yes" xml:space="preserve">
+          <source>Common Statistics Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Símbolos comunes de las estadísticas</target>
+        </trans-unit>
+        <trans-unit id="labelEquivalence_Proportion" translate="yes" xml:space="preserve">
+          <source>Common Equivalence and Proportion Operators</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">De equivalencia común y los operadores de la proporción</target>
+        </trans-unit>
+        <trans-unit id="labelFraction" translate="yes" xml:space="preserve">
+          <source>Fraction Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Símbolos de la fracción</target>
+        </trans-unit>
+        <trans-unit id="labelGeometric" translate="yes" xml:space="preserve">
+          <source>Geometric Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Símbolos geométricos</target>
+        </trans-unit>
+        <trans-unit id="labelLetter" translate="yes" xml:space="preserve">
+          <source>Letter Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Símbolos de la carta</target>
+        </trans-unit>
+        <trans-unit id="labelLogical_Proofs" translate="yes" xml:space="preserve">
+          <source>Logical Proofs Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Símbolos de la lógica de las pruebas</target>
+        </trans-unit>
+        <trans-unit id="labelLogicSet" translate="yes" xml:space="preserve">
+          <source>Logic and Set Theory Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Lógica y teoría de conjuntos de símbolos</target>
+        </trans-unit>
+        <trans-unit id="labelMeasurement" translate="yes" xml:space="preserve">
+          <source>Measurement Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Símbolos de medida</target>
+        </trans-unit>
+        <trans-unit id="labelOther_Mathematical" translate="yes" xml:space="preserve">
+          <source>Other Mathematical Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Otros símbolos matemáticos</target>
+        </trans-unit>
+        <trans-unit id="labelSubscripts" translate="yes" xml:space="preserve">
+          <source>Subscripts Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Subíndices de símbolos</target>
+        </trans-unit>
+        <trans-unit id="labelSuperscripts" translate="yes" xml:space="preserve">
+          <source>Superscripts Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Símbolos de superíndices</target>
+        </trans-unit>
+        <trans-unit id="MathInput" translate="yes" xml:space="preserve">
+          <source>Math Input</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Entrada de matemáticas</target>
+        </trans-unit>
+        <trans-unit id="NormalInput" translate="yes" xml:space="preserve">
+          <source>Character Input</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Entrada de caracteres</target>
+        </trans-unit>
+        <trans-unit id="Privacy" translate="yes" xml:space="preserve">
+          <source>Privacy</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Privacidad</target>
+        </trans-unit>
+        <trans-unit id="ResourceFlowDirection" translate="yes" xml:space="preserve">
+          <source>LeftToRight</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">LeftToRight</target>
+        </trans-unit>
+        <trans-unit id="ResourceLanguage" translate="yes" xml:space="preserve">
+          <source>en-US</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">es-ES</target>
+        </trans-unit>
+        <trans-unit id="ToolbarClear" translate="yes" xml:space="preserve">
+          <source>Clear</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Borrar</target>
+        </trans-unit>
+        <trans-unit id="ToolbarCopy" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Copiar</target>
+        </trans-unit>
+        <trans-unit id="EntryPlaceholder" translate="yes" xml:space="preserve">
+          <source>Type your equation</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Su ecuación</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertFailed" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Error</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertFailedMessage" translate="yes" xml:space="preserve">
+          <source>Please checkout your Inputs</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Por favor pago sus entradas</target>
+        </trans-unit>
+        <trans-unit id="EmailSend" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Envío</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem1" translate="yes" xml:space="preserve">
+          <source>Fixes</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Correcciones</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem2" translate="yes" xml:space="preserve">
+          <source>Improvements</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Mejoras</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem3" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Comentarios</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem4" translate="yes" xml:space="preserve">
+          <source>Others</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Otros</target>
+        </trans-unit>
+        <trans-unit id="FeedbackMail" translate="yes" xml:space="preserve">
+          <source>ckannan759153@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">ckannan759153@gmail.com</target>
+        </trans-unit>
+        <trans-unit id="layout1_labelText" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Name</target>
+        </trans-unit>
+        <trans-unit id="layout2_labelText" translate="yes" xml:space="preserve">
+          <source>Feedback Type</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Tipo de retroalimentación</target>
+        </trans-unit>
+        <trans-unit id="layout3_labelText" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Mensaje</target>
+        </trans-unit>
+        <trans-unit id="layout4_labelText" translate="yes" xml:space="preserve">
+          <source>Donation Amount</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Monto de la donación</target>
+        </trans-unit>
+        <trans-unit id="ImageOCR" translate="yes" xml:space="preserve">
+          <source>Equation from Image</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ecuación de imagen</target>
+        </trans-unit>
+        <trans-unit id="AmountPlaceholder" translate="yes" xml:space="preserve">
+          <source>Enter the donation amount</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Ingrese el monto de la donación</target>
+        </trans-unit>
+        <trans-unit id="Donate" translate="yes" xml:space="preserve">
+          <source>Donate</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Donar</target>
+        </trans-unit>
+        <trans-unit id="AboutDetails" translate="yes" xml:space="preserve">
+          <source>      Himalaya Computer Technology goal is to provide trainings on Application development, Game development, Mobile applications, Photo and Video editing, Static and Dynamic website development, Hardware &amp; Software services for begineers.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">      Himalaya informática objetivo es proporcionar cursos de capacitación en desarrollo de aplicaciones, desarrollo de videojuegos, aplicaciones móviles, desarrollo de páginas web edición, estática y dinámica de foto y Video, servicios de Hardware &amp;Software para lombricultores.</target>
+        </trans-unit>
+        <trans-unit id="OCRPageCaptureError" translate="yes" xml:space="preserve">
+          <source>Photo not captured.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Foto no.</target>
+        </trans-unit>
+        <trans-unit id="OCRPageGetPhotoButton" translate="yes" xml:space="preserve">
+          <source>Get photo</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Obtener foto</target>
+        </trans-unit>
+        <trans-unit id="OCRPageLoadError" translate="yes" xml:space="preserve">
+          <source>Photo not Loaded.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Foto descargada.</target>
+        </trans-unit>
+        <trans-unit id="OCRPageLoadImageButton" translate="yes" xml:space="preserve">
+          <source>Load image</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Imagen de carga</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

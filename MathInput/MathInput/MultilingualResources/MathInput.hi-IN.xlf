@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="hi-IN" original="MATHINPUT/RESOURCES/LANGUAGE.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1605.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="MATHINPUT/RESOURCES/LANGUAGE.RESX" datatype="resx">
+        <trans-unit id="About" translate="yes" xml:space="preserve">
+          <source>About Us</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">हमारे बारे में</target>
+        </trans-unit>
+        <trans-unit id="AppName" translate="yes" xml:space="preserve">
+          <source>Math Input</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">गणित इनपुट</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertMessage" translate="yes" xml:space="preserve">
+          <source>Equation Copied</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">समीकरण की प्रतिलिपि</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertOK" translate="yes" xml:space="preserve">
+          <source>OK</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">ठीक</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertSuccess" translate="yes" xml:space="preserve">
+          <source>Success</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">सफलता</target>
+        </trans-unit>
+        <trans-unit id="Feedback" translate="yes" xml:space="preserve">
+          <source>Feedback</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">प्रतिक्रिया</target>
+        </trans-unit>
+        <trans-unit id="labelCalculusStatistics" translate="yes" xml:space="preserve">
+          <source>Calculus Statistics Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">गणित के आँकड़े प्रतीक</target>
+        </trans-unit>
+        <trans-unit id="labelCommonArith" translate="yes" xml:space="preserve">
+          <source>Common Arithmetic and Algebra Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">आम अंकगणित और बीजगणित प्रतीक</target>
+        </trans-unit>
+        <trans-unit id="labelCommonStatistics" translate="yes" xml:space="preserve">
+          <source>Common Statistics Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">आम सांख्यिकी प्रतीक</target>
+        </trans-unit>
+        <trans-unit id="labelEquivalence_Proportion" translate="yes" xml:space="preserve">
+          <source>Common Equivalence and Proportion Operators</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">आम तुल्यता और अनुपात ऑपरेटर्स</target>
+        </trans-unit>
+        <trans-unit id="labelFraction" translate="yes" xml:space="preserve">
+          <source>Fraction Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">अंश प्रतीकों</target>
+        </trans-unit>
+        <trans-unit id="labelGeometric" translate="yes" xml:space="preserve">
+          <source>Geometric Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">ज्यामितीय प्रतीकों</target>
+        </trans-unit>
+        <trans-unit id="labelLetter" translate="yes" xml:space="preserve">
+          <source>Letter Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">पत्र प्रतीक</target>
+        </trans-unit>
+        <trans-unit id="labelLogical_Proofs" translate="yes" xml:space="preserve">
+          <source>Logical Proofs Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">तार्किक सबूत प्रतीक</target>
+        </trans-unit>
+        <trans-unit id="labelLogicSet" translate="yes" xml:space="preserve">
+          <source>Logic and Set Theory Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">तर्क और सिद्धांत प्रतीक</target>
+        </trans-unit>
+        <trans-unit id="labelMeasurement" translate="yes" xml:space="preserve">
+          <source>Measurement Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">माप प्रतीक</target>
+        </trans-unit>
+        <trans-unit id="labelOther_Mathematical" translate="yes" xml:space="preserve">
+          <source>Other Mathematical Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">अन्य गणितीय प्रतीक</target>
+        </trans-unit>
+        <trans-unit id="labelSubscripts" translate="yes" xml:space="preserve">
+          <source>Subscripts Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">सबस्क्रिप्ट प्रतीक</target>
+        </trans-unit>
+        <trans-unit id="labelSuperscripts" translate="yes" xml:space="preserve">
+          <source>Superscripts Symbols</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">सुपरस्क्रिप्ट प्रतीक</target>
+        </trans-unit>
+        <trans-unit id="MathInput" translate="yes" xml:space="preserve">
+          <source>Math Input</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">गणित इनपुट</target>
+        </trans-unit>
+        <trans-unit id="NormalInput" translate="yes" xml:space="preserve">
+          <source>Character Input</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">वर्ण इनपुट</target>
+        </trans-unit>
+        <trans-unit id="Privacy" translate="yes" xml:space="preserve">
+          <source>Privacy</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">गोपनीयता</target>
+        </trans-unit>
+        <trans-unit id="ResourceFlowDirection" translate="yes" xml:space="preserve">
+          <source>LeftToRight</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">LeftToRight</target>
+        </trans-unit>
+        <trans-unit id="ResourceLanguage" translate="yes" xml:space="preserve">
+          <source>en-US</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">hi-in</target>
+        </trans-unit>
+        <trans-unit id="ToolbarClear" translate="yes" xml:space="preserve">
+          <source>Clear</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">साफ़ करें</target>
+        </trans-unit>
+        <trans-unit id="ToolbarCopy" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">प्रतिलिपि बनाएँ</target>
+        </trans-unit>
+        <trans-unit id="EntryPlaceholder" translate="yes" xml:space="preserve">
+          <source>Type your equation</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">अपने समीकरण लिखें</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertFailed" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">त्रुटि</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertFailedMessage" translate="yes" xml:space="preserve">
+          <source>Please checkout your Inputs</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">चेकआउट कृपया अपने इनपुट्स</target>
+        </trans-unit>
+        <trans-unit id="EmailSend" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">भेजें</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem1" translate="yes" xml:space="preserve">
+          <source>Fixes</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">हल करता है</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem2" translate="yes" xml:space="preserve">
+          <source>Improvements</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">सुधार</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem3" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Comments</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem4" translate="yes" xml:space="preserve">
+          <source>Others</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">अन्य</target>
+        </trans-unit>
+        <trans-unit id="FeedbackMail" translate="yes" xml:space="preserve">
+          <source>ckannan759153@gmail.com</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">ckannan759153@gmail.com</target>
+        </trans-unit>
+        <trans-unit id="layout1_labelText" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Name</target>
+        </trans-unit>
+        <trans-unit id="layout2_labelText" translate="yes" xml:space="preserve">
+          <source>Feedback Type</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">प्रतिक्रिया प्रकार</target>
+        </trans-unit>
+        <trans-unit id="layout3_labelText" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">MESSAGE</target>
+        </trans-unit>
+        <trans-unit id="layout4_labelText" translate="yes" xml:space="preserve">
+          <source>Donation Amount</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">दान की राशि</target>
+        </trans-unit>
+        <trans-unit id="ImageOCR" translate="yes" xml:space="preserve">
+          <source>Equation from Image</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">छवि से समीकरण</target>
+        </trans-unit>
+        <trans-unit id="AmountPlaceholder" translate="yes" xml:space="preserve">
+          <source>Enter the donation amount</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">दान की राशि दर्ज करें</target>
+        </trans-unit>
+        <trans-unit id="Donate" translate="yes" xml:space="preserve">
+          <source>Donate</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">दान</target>
+        </trans-unit>
+        <trans-unit id="AboutDetails" translate="yes" xml:space="preserve">
+          <source>      Himalaya Computer Technology goal is to provide trainings on Application development, Game development, Mobile applications, Photo and Video editing, Static and Dynamic website development, Hardware &amp; Software services for begineers.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">      हिमालय कंप्यूटर प्रौद्योगिकी लक्ष्य अनुप्रयोग विकास, खेल विकास, मोबाइल अनुप्रयोगों, फोटो और वीडियो संपादन, स्थिर और गतिशील वेबसाइट विकास पर प्रशिक्षण प्रदान करने के लिए, हार्डवेयर &amp;सॉफ्टवेयर सेवाओं के लिए begineers.</target>
+        </trans-unit>
+        <trans-unit id="OCRPageCaptureError" translate="yes" xml:space="preserve">
+          <source>Photo not captured.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">फोटो नहीं पर कब्जा कर लिया।</target>
+        </trans-unit>
+        <trans-unit id="OCRPageGetPhotoButton" translate="yes" xml:space="preserve">
+          <source>Get photo</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">तस्वीर मिल</target>
+        </trans-unit>
+        <trans-unit id="OCRPageLoadError" translate="yes" xml:space="preserve">
+          <source>Photo not Loaded.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">फोटो लोड नहीं।</target>
+        </trans-unit>
+        <trans-unit id="OCRPageLoadImageButton" translate="yes" xml:space="preserve">
+          <source>Load image</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">छवि लोड</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

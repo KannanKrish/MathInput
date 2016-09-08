@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>关于我们</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>数学输入</value>
+  </data>
+  <data name="DisplayAlertMessage" xml:space="preserve">
+    <value>复制的方程</value>
+  </data>
+  <data name="DisplayAlertOK" xml:space="preserve">
+    <value>确定</value>
+  </data>
+  <data name="DisplayAlertSuccess" xml:space="preserve">
+    <value>成功</value>
+  </data>
+  <data name="Feedback" xml:space="preserve">
+    <value>反馈</value>
+  </data>
+  <data name="labelCalculusStatistics" xml:space="preserve">
+    <value>微积分统计符号</value>
+  </data>
+  <data name="labelCommonArith" xml:space="preserve">
+    <value>常见的算术和代数符号</value>
+  </data>
+  <data name="labelCommonStatistics" xml:space="preserve">
+    <value>常用统计符号</value>
+  </data>
+  <data name="labelEquivalence_Proportion" xml:space="preserve">
+    <value>常见的等价性和比例运算符</value>
+  </data>
+  <data name="labelFraction" xml:space="preserve">
+    <value>分数符号</value>
+  </data>
+  <data name="labelGeometric" xml:space="preserve">
+    <value>几何符号</value>
+  </data>
+  <data name="labelLetter" xml:space="preserve">
+    <value>字母符号</value>
+  </data>
+  <data name="labelLogical_Proofs" xml:space="preserve">
+    <value>逻辑推理符号</value>
+  </data>
+  <data name="labelLogicSet" xml:space="preserve">
+    <value>逻辑和集合论符号</value>
+  </data>
+  <data name="labelMeasurement" xml:space="preserve">
+    <value>测量符号</value>
+  </data>
+  <data name="labelOther_Mathematical" xml:space="preserve">
+    <value>其他数学符号</value>
+  </data>
+  <data name="labelSubscripts" xml:space="preserve">
+    <value>下标符号</value>
+  </data>
+  <data name="labelSuperscripts" xml:space="preserve">
+    <value>上标符号</value>
+  </data>
+  <data name="MathInput" xml:space="preserve">
+    <value>数学输入</value>
+  </data>
+  <data name="NormalInput" xml:space="preserve">
+    <value>字符输入</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>隐私</value>
+  </data>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>zh-cn</value>
+  </data>
+  <data name="ToolbarClear" xml:space="preserve">
+    <value>清除</value>
+  </data>
+  <data name="ToolbarCopy" xml:space="preserve">
+    <value>复制</value>
+  </data>
+  <data name="EntryPlaceholder" xml:space="preserve">
+    <value>键入您的公式</value>
+  </data>
+  <data name="DisplayAlertFailed" xml:space="preserve">
+    <value>Error</value>
+  </data>
+  <data name="DisplayAlertFailedMessage" xml:space="preserve">
+    <value>请签出您的输入</value>
+  </data>
+  <data name="EmailSend" xml:space="preserve">
+    <value>发送</value>
+  </data>
+  <data name="FeedbackItem1" xml:space="preserve">
+    <value>修补程序</value>
+  </data>
+  <data name="FeedbackItem2" xml:space="preserve">
+    <value>改进</value>
+  </data>
+  <data name="FeedbackItem3" xml:space="preserve">
+    <value>注释</value>
+  </data>
+  <data name="FeedbackItem4" xml:space="preserve">
+    <value>其他</value>
+  </data>
+  <data name="FeedbackMail" xml:space="preserve">
+    <value>ckannan759153@gmail.com</value>
+  </data>
+  <data name="layout1_labelText" xml:space="preserve">
+    <value>名称</value>
+  </data>
+  <data name="layout2_labelText" xml:space="preserve">
+    <value>反馈类型</value>
+  </data>
+  <data name="layout3_labelText" xml:space="preserve">
+    <value>信息</value>
+  </data>
+  <data name="layout4_labelText" xml:space="preserve">
+    <value>捐赠金额</value>
+  </data>
+  <data name="ImageOCR" xml:space="preserve">
+    <value>图像的方程</value>
+  </data>
+  <data name="AmountPlaceholder" xml:space="preserve">
+    <value>输入捐赠金额</value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>捐赠</value>
+  </data>
+  <data name="AboutDetails" xml:space="preserve">
+    <value>喜马拉雅山计算机科技的目标是要提供对应用程序开发、 游戏开发、 移动应用、 照片和视频编辑、 静态和动态网站开发的培训、 硬件&amp;软件服务为 begineers。</value>
+  </data>
+  <data name="OCRPageCaptureError" xml:space="preserve">
+    <value>不捕获的照片。</value>
+  </data>
+  <data name="OCRPageGetPhotoButton" xml:space="preserve">
+    <value>拍张照片</value>
+  </data>
+  <data name="OCRPageLoadError" xml:space="preserve">
+    <value>照片不会加载。</value>
+  </data>
+  <data name="OCRPageLoadImageButton" xml:space="preserve">
+    <value>加载图像</value>
+  </data>
+</root>

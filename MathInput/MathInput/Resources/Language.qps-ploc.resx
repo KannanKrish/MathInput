@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>[38AF9][!!_Áъóúт Ûş_!!]</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>[0F9C0][!!_Мáťн Îήþµţ_!!]</value>
+  </data>
+  <data name="DisplayAlertMessage" xml:space="preserve">
+    <value>[E78A6][!!_Êqûâţìôή Čòрíèð_!!]</value>
+  </data>
+  <data name="DisplayAlertOK" xml:space="preserve">
+    <value>[C4D27][!!_ÒЌ_!!]</value>
+  </data>
+  <data name="DisplayAlertSuccess" xml:space="preserve">
+    <value>[2F5B2][!!_Şµćĉêşś_!!]</value>
+  </data>
+  <data name="Feedback" xml:space="preserve">
+    <value>[0AC51][!!_₣êèðБãćķ_!!]</value>
+  </data>
+  <data name="labelCalculusStatistics" xml:space="preserve">
+    <value>[4EBAD][!!_Ĉàļĉúĺµş Şτáţįšτįĉŝ Ŝŷмъõļŝ_!!]</value>
+  </data>
+  <data name="labelCommonArith" xml:space="preserve">
+    <value>[8D90A][!!_Ćõmмõй Áѓíτћмèтįĉ âйď Ãļĝéьřà ŚўмБôľš_!!]</value>
+  </data>
+  <data name="labelCommonStatistics" xml:space="preserve">
+    <value>[15DF3][!!_Ċómмòй Şţãťįŝτįĉş ŜÿmБõľŝ_!!]</value>
+  </data>
+  <data name="labelEquivalence_Proportion" xml:space="preserve">
+    <value>[4556A][!!_Ċòmмõή Êqúíνâľèйčé áηđ Ρŕõþóřτįôй Ôрêŗàţõŕŝ_!!]</value>
+  </data>
+  <data name="labelFraction" xml:space="preserve">
+    <value>[5E1F2][!!_₣řàċťîôи Śýмьòłš_!!]</value>
+  </data>
+  <data name="labelGeometric" xml:space="preserve">
+    <value>[20EE8][!!_Ġęõмèťŕìĉ ŞУmБôłš_!!]</value>
+  </data>
+  <data name="labelLetter" xml:space="preserve">
+    <value>[31EBC][!!_Ŀęτтèŕ Şўмьõľş_!!]</value>
+  </data>
+  <data name="labelLogical_Proofs" xml:space="preserve">
+    <value>[5E94C][!!_Ĺòğîćàł Þŕòõƒş ŜŷmБòłś_!!]</value>
+  </data>
+  <data name="labelLogicSet" xml:space="preserve">
+    <value>[75571][!!_Ŀõģîč âηđ Ŝêť Тћèóŗÿ Śўmвòľş_!!]</value>
+  </data>
+  <data name="labelMeasurement" xml:space="preserve">
+    <value>[AA9CE][!!_Μèàşûѓêмêήť Šýмьółś_!!]</value>
+  </data>
+  <data name="labelOther_Mathematical" xml:space="preserve">
+    <value>[C0451][!!_Õţĥèŕ Мàτћêмâτìĉàľ ŜÿмБòļš_!!]</value>
+  </data>
+  <data name="labelSubscripts" xml:space="preserve">
+    <value>[9467E][!!_Šµвŝċŕîþţş Ŝўmьõľš_!!]</value>
+  </data>
+  <data name="labelSuperscripts" xml:space="preserve">
+    <value>[9E357][!!_Şúþęŗŝĉřįρтŝ ŠУмьółš_!!]</value>
+  </data>
+  <data name="MathInput" xml:space="preserve">
+    <value>[88AA1][!!_Μâţĥ Íйρµτ_!!]</value>
+  </data>
+  <data name="NormalInput" xml:space="preserve">
+    <value>[A34C1][!!_Ćħàŗàĉтęŕ Îйрúţ_!!]</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>[AB7B0][!!_Рѓíνãčý_!!]</value>
+  </data>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>[DA155][!!_ĿęƒτΤòЃíġħť_!!]</value>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>[ECCFA][!!_ęй-ÚŠ_!!]</value>
+  </data>
+  <data name="ToolbarClear" xml:space="preserve">
+    <value>[1AE90][!!_Ċĺéàŕ_!!]</value>
+  </data>
+  <data name="ToolbarCopy" xml:space="preserve">
+    <value>[52542][!!_Ćòρŷ_!!]</value>
+  </data>
+  <data name="EntryPlaceholder" xml:space="preserve">
+    <value>[A7A1B][!!_ŢУρê ŷõùŗ êqúãţíõή_!!]</value>
+  </data>
+  <data name="DisplayAlertFailed" xml:space="preserve">
+    <value>[EC61B][!!_Êřŗôѓ_!!]</value>
+  </data>
+  <data name="DisplayAlertFailedMessage" xml:space="preserve">
+    <value>[77CC1][!!_Ρĺêâśê ćћęċкõúţ ÿôµѓ Íηþùτş_!!]</value>
+  </data>
+  <data name="EmailSend" xml:space="preserve">
+    <value>[94CC2][!!_Šèйđ_!!]</value>
+  </data>
+  <data name="FeedbackItem1" xml:space="preserve">
+    <value>[F6619][!!_₣îхęŝ_!!]</value>
+  </data>
+  <data name="FeedbackItem2" xml:space="preserve">
+    <value>[A37D1][!!_Įмþřõνémęηţš_!!]</value>
+  </data>
+  <data name="FeedbackItem3" xml:space="preserve">
+    <value>[D9544][!!_Ĉómmęήťś_!!]</value>
+  </data>
+  <data name="FeedbackItem4" xml:space="preserve">
+    <value>[5936B][!!_Óтнęřŝ_!!]</value>
+  </data>
+  <data name="FeedbackMail" xml:space="preserve">
+    <value>[EE4DC][!!_ĉќâииáη759153@ġmãíĺ.ćóм_!!]</value>
+  </data>
+  <data name="layout1_labelText" xml:space="preserve">
+    <value>[19E2A][!!_Ñámè_!!]</value>
+  </data>
+  <data name="layout2_labelText" xml:space="preserve">
+    <value>[65963][!!_₣êéðьàĉķ Ţŷрè_!!]</value>
+  </data>
+  <data name="layout3_labelText" xml:space="preserve">
+    <value>[4C838][!!_Мéśśàğè_!!]</value>
+  </data>
+  <data name="layout4_labelText" xml:space="preserve">
+    <value>[7EB4A][!!_Đóηâťíòή Âмòûйť_!!]</value>
+  </data>
+  <data name="ImageOCR" xml:space="preserve">
+    <value>[7BBA3][!!_Èqûáτįòη ƒřõm Ìmáğê_!!]</value>
+  </data>
+  <data name="AmountPlaceholder" xml:space="preserve">
+    <value>[E4F99][!!_Êиτęř τħê ðóиáтįõи âмôµήτ_!!]</value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>[1315D][!!_Đóήáťé_!!]</value>
+  </data>
+  <data name="AboutDetails" xml:space="preserve">
+    <value>[498F7][!!_      Ĥìmáļâŷà Ĉômрùţéŗ Τèĉħиòłòğý ġóãļ ìš ţõ þŗõνìďê ťŗâįηįηģŝ õй Ãρρļîĉâţíòη ðéνéļõþmèήţ, Ģâmé ďęνęĺôþmęητ, Мôьîĺê áрρļìĉáтįõиś, Рнôťô âиđ Vįðéõ éðîťîήğ, Śţáţíč âиð Ðŷήàmìċ ŵêъšîťé đêνêĺõρмèиţ, Ĥãŕðẅâŕé &amp; Śóƒτẅářę šęѓνíćèŝ ƒõѓ Бéġìηéèѓş._!!]</value>
+  </data>
+  <data name="OCRPageCaptureError" xml:space="preserve">
+    <value>[83ECB][!!_Þнôтò ηõť ċáρτùŗêď._!!]</value>
+  </data>
+  <data name="OCRPageGetPhotoButton" xml:space="preserve">
+    <value>[69482][!!_Ġęť þћôťõ_!!]</value>
+  </data>
+  <data name="OCRPageLoadError" xml:space="preserve">
+    <value>[6CCEC][!!_Рħôтõ йòť Ĺôáďéď._!!]</value>
+  </data>
+  <data name="OCRPageLoadImageButton" xml:space="preserve">
+    <value>[7EF29][!!_Ļóãď ìмáġé_!!]</value>
+  </data>
+</root>

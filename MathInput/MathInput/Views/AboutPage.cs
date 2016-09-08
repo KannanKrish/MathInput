@@ -11,7 +11,8 @@ namespace MathInput.Views
             Content = new StackLayout
             {
                 Children = {
-                    new Label { Text = Language.About }
+                    new Label { Text = Language.About,FontSize=Font.SystemFontOfSize(NamedSize.Large).FontSize,HorizontalTextAlignment=TextAlignment.Center },
+                    new Label {Text=Language.AboutDetails,FontSize=Font.SystemFontOfSize(NamedSize.Medium).FontSize }                    
                 }
             };
         }

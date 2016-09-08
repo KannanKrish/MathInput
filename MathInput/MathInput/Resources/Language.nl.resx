@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="About" xml:space="preserve">
+    <value>Informatie</value>
+  </data>
+  <data name="AppName" xml:space="preserve">
+    <value>Math Input</value>
+  </data>
+  <data name="DisplayAlertMessage" xml:space="preserve">
+    <value>Vergelijking gekopieerd</value>
+  </data>
+  <data name="DisplayAlertOK" xml:space="preserve">
+    <value>OK</value>
+  </data>
+  <data name="DisplayAlertSuccess" xml:space="preserve">
+    <value>Geslaagd</value>
+  </data>
+  <data name="Feedback" xml:space="preserve">
+    <value>Feedback</value>
+  </data>
+  <data name="labelCalculusStatistics" xml:space="preserve">
+    <value>Calculus statistieken symbolen</value>
+  </data>
+  <data name="labelCommonArith" xml:space="preserve">
+    <value>Gemeenschappelijke rekenkunde en de Algebra symbolen</value>
+  </data>
+  <data name="labelCommonStatistics" xml:space="preserve">
+    <value>Algemene statistieken symbolen</value>
+  </data>
+  <data name="labelEquivalence_Proportion" xml:space="preserve">
+    <value>Gemeenschappelijke gelijkwaardigheid en aandeel exploitanten</value>
+  </data>
+  <data name="labelFraction" xml:space="preserve">
+    <value>Fractie symbolen</value>
+  </data>
+  <data name="labelGeometric" xml:space="preserve">
+    <value>Geometrische symbolen</value>
+  </data>
+  <data name="labelLetter" xml:space="preserve">
+    <value>Letters</value>
+  </data>
+  <data name="labelLogical_Proofs" xml:space="preserve">
+    <value>Logische bewijzen symbolen</value>
+  </data>
+  <data name="labelLogicSet" xml:space="preserve">
+    <value>Logica en de verzamelingenleer symbolen</value>
+  </data>
+  <data name="labelMeasurement" xml:space="preserve">
+    <value>Meting symbolen</value>
+  </data>
+  <data name="labelOther_Mathematical" xml:space="preserve">
+    <value>Andere wiskundige symbolen</value>
+  </data>
+  <data name="labelSubscripts" xml:space="preserve">
+    <value>Subscript symbolen</value>
+  </data>
+  <data name="labelSuperscripts" xml:space="preserve">
+    <value>Superscript symbolen</value>
+  </data>
+  <data name="MathInput" xml:space="preserve">
+    <value>Math Input</value>
+  </data>
+  <data name="NormalInput" xml:space="preserve">
+    <value>Tekeninvoer</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>Privacy</value>
+  </data>
+  <data name="ResourceFlowDirection" xml:space="preserve">
+    <value>LeftToRight</value>
+  </data>
+  <data name="ResourceLanguage" xml:space="preserve">
+    <value>nl-NL</value>
+  </data>
+  <data name="ToolbarClear" xml:space="preserve">
+    <value>Wissen</value>
+  </data>
+  <data name="ToolbarCopy" xml:space="preserve">
+    <value>Kopiëren</value>
+  </data>
+  <data name="EntryPlaceholder" xml:space="preserve">
+    <value>Typ uw vergelijking</value>
+  </data>
+  <data name="DisplayAlertFailed" xml:space="preserve">
+    <value>Fout</value>
+  </data>
+  <data name="DisplayAlertFailedMessage" xml:space="preserve">
+    <value>Gelieve afrekenen uw ingangen</value>
+  </data>
+  <data name="EmailSend" xml:space="preserve">
+    <value>Verzenden</value>
+  </data>
+  <data name="FeedbackItem1" xml:space="preserve">
+    <value>Correcties</value>
+  </data>
+  <data name="FeedbackItem2" xml:space="preserve">
+    <value>Verbeteringen</value>
+  </data>
+  <data name="FeedbackItem3" xml:space="preserve">
+    <value>Opmerkingen</value>
+  </data>
+  <data name="FeedbackItem4" xml:space="preserve">
+    <value>Overige</value>
+  </data>
+  <data name="FeedbackMail" xml:space="preserve">
+    <value>ckannan759153@Gmail.com</value>
+  </data>
+  <data name="layout1_labelText" xml:space="preserve">
+    <value>Naam</value>
+  </data>
+  <data name="layout2_labelText" xml:space="preserve">
+    <value>Soort feedback</value>
+  </data>
+  <data name="layout3_labelText" xml:space="preserve">
+    <value>Bericht</value>
+  </data>
+  <data name="layout4_labelText" xml:space="preserve">
+    <value>Donatie bedrag</value>
+  </data>
+  <data name="ImageOCR" xml:space="preserve">
+    <value>Vergelijking van afbeelding</value>
+  </data>
+  <data name="AmountPlaceholder" xml:space="preserve">
+    <value>Voer het bedrag van de donatie</value>
+  </data>
+  <data name="Donate" xml:space="preserve">
+    <value>Doneren</value>
+  </data>
+  <data name="AboutDetails" xml:space="preserve">
+    <value>      Himalaya computertechnologie doel is om trainingen op toepassingsontwikkeling, spelontwikkeling, mobiele toepassingen, foto en Video bewerken, statische en dynamische websiteontwikkeling, Hardware &amp;Software diensten voor begineers.</value>
+  </data>
+  <data name="OCRPageCaptureError" xml:space="preserve">
+    <value>Foto niet gevangen.</value>
+  </data>
+  <data name="OCRPageGetPhotoButton" xml:space="preserve">
+    <value>Foto</value>
+  </data>
+  <data name="OCRPageLoadError" xml:space="preserve">
+    <value>Foto niet geladen.</value>
+  </data>
+  <data name="OCRPageLoadImageButton" xml:space="preserve">
+    <value>Afbeelding laden</value>
+  </data>
+</root>

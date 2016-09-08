@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en" target-language="ta" original="MATHINPUT/RESOURCES/LANGUAGE.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.1605.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="MATHINPUT/RESOURCES/LANGUAGE.RESX" datatype="resx">
+        <trans-unit id="About" translate="yes" xml:space="preserve">
+          <source>About Us</source>
+          <target state="new">About Us</target>
+        </trans-unit>
+        <trans-unit id="AppName" translate="yes" xml:space="preserve">
+          <source>Math Input</source>
+          <target state="new">Math Input</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertMessage" translate="yes" xml:space="preserve">
+          <source>Equation Copied</source>
+          <target state="new">Equation Copied</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertOK" translate="yes" xml:space="preserve">
+          <source>OK</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">சரி</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertSuccess" translate="yes" xml:space="preserve">
+          <source>Success</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">வெற்றி</target>
+        </trans-unit>
+        <trans-unit id="Feedback" translate="yes" xml:space="preserve">
+          <source>Feedback</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">பின்னூட்டம்</target>
+        </trans-unit>
+        <trans-unit id="labelCalculusStatistics" translate="yes" xml:space="preserve">
+          <source>Calculus Statistics Symbols</source>
+          <target state="new">Calculus Statistics Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelCommonArith" translate="yes" xml:space="preserve">
+          <source>Common Arithmetic and Algebra Symbols</source>
+          <target state="new">Common Arithmetic and Algebra Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelCommonStatistics" translate="yes" xml:space="preserve">
+          <source>Common Statistics Symbols</source>
+          <target state="new">Common Statistics Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelEquivalence_Proportion" translate="yes" xml:space="preserve">
+          <source>Common Equivalence and Proportion Operators</source>
+          <target state="new">Common Equivalence and Proportion Operators</target>
+        </trans-unit>
+        <trans-unit id="labelFraction" translate="yes" xml:space="preserve">
+          <source>Fraction Symbols</source>
+          <target state="new">Fraction Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelGeometric" translate="yes" xml:space="preserve">
+          <source>Geometric Symbols</source>
+          <target state="new">Geometric Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelLetter" translate="yes" xml:space="preserve">
+          <source>Letter Symbols</source>
+          <target state="new">Letter Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelLogical_Proofs" translate="yes" xml:space="preserve">
+          <source>Logical Proofs Symbols</source>
+          <target state="new">Logical Proofs Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelLogicSet" translate="yes" xml:space="preserve">
+          <source>Logic and Set Theory Symbols</source>
+          <target state="new">Logic and Set Theory Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelMeasurement" translate="yes" xml:space="preserve">
+          <source>Measurement Symbols</source>
+          <target state="new">Measurement Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelOther_Mathematical" translate="yes" xml:space="preserve">
+          <source>Other Mathematical Symbols</source>
+          <target state="new">Other Mathematical Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelSubscripts" translate="yes" xml:space="preserve">
+          <source>Subscripts Symbols</source>
+          <target state="new">Subscripts Symbols</target>
+        </trans-unit>
+        <trans-unit id="labelSuperscripts" translate="yes" xml:space="preserve">
+          <source>Superscripts Symbols</source>
+          <target state="new">Superscripts Symbols</target>
+        </trans-unit>
+        <trans-unit id="MathInput" translate="yes" xml:space="preserve">
+          <source>Math Input</source>
+          <target state="new">Math Input</target>
+        </trans-unit>
+        <trans-unit id="NormalInput" translate="yes" xml:space="preserve">
+          <source>Character Input</source>
+          <target state="new">Character Input</target>
+        </trans-unit>
+        <trans-unit id="Privacy" translate="yes" xml:space="preserve">
+          <source>Privacy</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">தனியுரிமை</target>
+        </trans-unit>
+        <trans-unit id="ResourceFlowDirection" translate="yes" xml:space="preserve">
+          <source>LeftToRight</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">LeftToRight</target>
+        </trans-unit>
+        <trans-unit id="ResourceLanguage" translate="yes" xml:space="preserve">
+          <source>en-US</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">ta-IN</target>
+        </trans-unit>
+        <trans-unit id="ToolbarClear" translate="yes" xml:space="preserve">
+          <source>Clear</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">அழி</target>
+        </trans-unit>
+        <trans-unit id="ToolbarCopy" translate="yes" xml:space="preserve">
+          <source>Copy</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">நகலெடு</target>
+        </trans-unit>
+        <trans-unit id="EntryPlaceholder" translate="yes" xml:space="preserve">
+          <source>Type your equation</source>
+          <target state="new">Type your equation</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertFailed" translate="yes" xml:space="preserve">
+          <source>Error</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Error</target>
+        </trans-unit>
+        <trans-unit id="DisplayAlertFailedMessage" translate="yes" xml:space="preserve">
+          <source>Please checkout your Inputs</source>
+          <target state="new">Please checkout your Inputs</target>
+        </trans-unit>
+        <trans-unit id="EmailSend" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">அனுப்பு</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem1" translate="yes" xml:space="preserve">
+          <source>Fixes</source>
+          <target state="new">Fixes</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem2" translate="yes" xml:space="preserve">
+          <source>Improvements</source>
+          <target state="new">Improvements</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem3" translate="yes" xml:space="preserve">
+          <source>Comments</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">கருத்துகள்</target>
+        </trans-unit>
+        <trans-unit id="FeedbackItem4" translate="yes" xml:space="preserve">
+          <source>Others</source>
+          <target state="new">Others</target>
+        </trans-unit>
+        <trans-unit id="FeedbackMail" translate="yes" xml:space="preserve">
+          <source>ckannan759153@gmail.com</source>
+          <target state="new">ckannan759153@gmail.com</target>
+        </trans-unit>
+        <trans-unit id="layout1_labelText" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">Name</target>
+        </trans-unit>
+        <trans-unit id="layout2_labelText" translate="yes" xml:space="preserve">
+          <source>Feedback Type</source>
+          <target state="new">Feedback Type</target>
+        </trans-unit>
+        <trans-unit id="layout3_labelText" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <target state="needs-review-translation" state-qualifier="tm-suggestion">செய்தி:</target>
+        </trans-unit>
+        <trans-unit id="layout4_labelText" translate="yes" xml:space="preserve">
+          <source>Donation Amount</source>
+          <target state="new">Donation Amount</target>
+        </trans-unit>
+        <trans-unit id="ImageOCR" translate="yes" xml:space="preserve">
+          <source>Equation from Image</source>
+          <target state="new">Equation from Image</target>
+        </trans-unit>
+        <trans-unit id="AmountPlaceholder" translate="yes" xml:space="preserve">
+          <source>Enter the donation amount</source>
+          <target state="new">Enter the donation amount</target>
+        </trans-unit>
+        <trans-unit id="Donate" translate="yes" xml:space="preserve">
+          <source>Donate</source>
+          <target state="new">Donate</target>
+        </trans-unit>
+        <trans-unit id="AboutDetails" translate="yes" xml:space="preserve">
+          <source>      Himalaya Computer Technology goal is to provide trainings on Application development, Game development, Mobile applications, Photo and Video editing, Static and Dynamic website development, Hardware &amp; Software services for begineers.</source>
+          <target state="new">      Himalaya Computer Technology goal is to provide trainings on Application development, Game development, Mobile applications, Photo and Video editing, Static and Dynamic website development, Hardware &amp; Software services for begineers.</target>
+        </trans-unit>
+        <trans-unit id="OCRPageCaptureError" translate="yes" xml:space="preserve">
+          <source>Photo not captured.</source>
+          <target state="new">Photo not captured.</target>
+        </trans-unit>
+        <trans-unit id="OCRPageGetPhotoButton" translate="yes" xml:space="preserve">
+          <source>Get photo</source>
+          <target state="new">Get photo</target>
+        </trans-unit>
+        <trans-unit id="OCRPageLoadError" translate="yes" xml:space="preserve">
+          <source>Photo not Loaded.</source>
+          <target state="new">Photo not Loaded.</target>
+        </trans-unit>
+        <trans-unit id="OCRPageLoadImageButton" translate="yes" xml:space="preserve">
+          <source>Load image</source>
+          <target state="new">Load image</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -62,11 +62,20 @@ namespace MathInput.Resources {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to About.
+        ///   Looks up a localized string similar to About Us.
         /// </summary>
         public static string About {
             get {
                 return ResourceManager.GetString("About", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to       Himalaya Computer Technology goal is to provide trainings on Application development, Game development, Mobile applications, Photo and Video editing, Static and Dynamic website development, Hardware &amp; Software services for begineers..
+        /// </summary>
+        public static string AboutDetails {
+            get {
+                return ResourceManager.GetString("AboutDetails", resourceCulture);
             }
         }
         
@@ -391,6 +400,42 @@ namespace MathInput.Resources {
         public static string NormalInput {
             get {
                 return ResourceManager.GetString("NormalInput", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Photo not captured..
+        /// </summary>
+        public static string OCRPageCaptureError {
+            get {
+                return ResourceManager.GetString("OCRPageCaptureError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Get photo.
+        /// </summary>
+        public static string OCRPageGetPhotoButton {
+            get {
+                return ResourceManager.GetString("OCRPageGetPhotoButton", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Photo not Loaded..
+        /// </summary>
+        public static string OCRPageLoadError {
+            get {
+                return ResourceManager.GetString("OCRPageLoadError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Load image.
+        /// </summary>
+        public static string OCRPageLoadImageButton {
+            get {
+                return ResourceManager.GetString("OCRPageLoadImageButton", resourceCulture);
             }
         }
         
