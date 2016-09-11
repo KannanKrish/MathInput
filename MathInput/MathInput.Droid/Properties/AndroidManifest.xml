@@ -3,7 +3,7 @@
 	<uses-sdk android:minSdkVersion="15" />
 	<uses-permission android:name="android.permission.INTERNET" />
 	<uses-permission android:name="android.permission.CAMERA" />
-	<application android:label="$safeprojectname$" android:icon="@drawable/icon">
+	<application android:label="Math Input" android:icon="@drawable/icon">
 		<activity android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
 	</application>
 </manifest>

@@ -9,6 +9,7 @@
     "XLabs.Core": "2.0.5782",
     "XLabs.Forms": "2.0.5782",
     "XLabs.IoC": "2.0.5782",
+    "XLabs.IoC.Autofac": "2.0.5782",
     "XLabs.Platform": "2.0.5782",
     "XLabs.Serialization": "2.0.5782"
   },

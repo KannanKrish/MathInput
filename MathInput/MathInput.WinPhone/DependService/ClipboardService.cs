@@ -1,5 +1,5 @@
 ﻿using MathInput.DependService;
-using System.Windows;
+using Windows.ApplicationModel.DataTransfer;
 using Xamarin.Forms;
 
 [assembly: Dependency(typeof(MathInput.WinPhone.DependService.ClipboardService))]
@@ -9,7 +9,8 @@ namespace MathInput.WinPhone.DependService
     {
         public void CopyToClipboard(string Text)
         {
-            Clipboard.SetText(Text);
+            
+
         }
     }
 }

@@ -1,9 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-using Foundation;
+﻿using Foundation;
 using UIKit;
+using XLabs.Platform.Services.Media;
+using Autofac;
+using Tesseract.iOS;
+using Tesseract;
+using XLabs.Ioc.Autofac;
+using XLabs.Ioc;
 
 namespace MathInput.iOS
 {
@@ -23,6 +25,14 @@ namespace MathInput.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+
+            var containerBuilder = new Autofac.ContainerBuilder();
+
+            containerBuilder.RegisterType<MediaPicker>().As<IMediaPicker>();
+            containerBuilder.RegisterType<TesseractApi>().As<ITesseractApi>();
+
+            Resolver.SetResolver(new AutofacResolver(containerBuilder.Build()));
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);
